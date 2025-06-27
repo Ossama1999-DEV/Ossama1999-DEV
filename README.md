@@ -46,7 +46,7 @@ I am a passionate student at CESI Engineering School with a strong interest in t
 
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+[![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 ![Jenkins](https://img.shields.io/badge/Jenkins-FF0000?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FFD600.svg?style=for-the-badge&logo=linux&logoColor=black)
@@ -68,10 +68,19 @@ I am a passionate student at CESI Engineering School with a strong interest in t
 ![BeagleBone Black](https://img.shields.io/badge/BeagleBone%20Black-000000.svg?style=for-the-badge&logo=beaglebone&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-36BCF7.svg?style=for-the-badge&logo=arduino&logoColor=white)
 
-
 ## 📊 GitHub Stats
-![Oussama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ossama1999-DEV&hide=issues&show_icons=true&count_private=true&theme=nightowl)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ossama1999-DEV&layout=compact&theme=nightowl)
+
+[![Oussama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ossama1999-DEV&hide=issues&show_icons=true&count_private=true&theme=nightowl)](https://github.com/Ossama1999-DEV)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ossama1999-DEV&layout=compact&theme=nightowl)](https://github.com/Ossama1999-DEV)
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ossama1999-DEV&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Ossama1999-DEV)
+
+## 🧠 GitHub Contribution Graph
+
+[![Oussama's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ossama1999-DEV&theme=nightowl)](https://github.com/Ossama1999-DEV)
 
 ## 📬 Connect with Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dbibihossama@gmail.com)
